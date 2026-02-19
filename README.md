@@ -14,7 +14,7 @@
 public class AbdulHazeez {
     private String name = "Abdul Hazeez";
     private String role = "Software Developer";
-    private String location = "Pakistan";
+    private String location = "India";
     private String[] languages = {"Java", "HTML5", "CSS3", "JavaScript"};
     private String currentFocus = "Full Stack Development";
     private boolean openToWork = true;
