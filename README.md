@@ -38,7 +38,7 @@ public class AbdulHazeez extends Developer {
 
     private final String[] backEnd   = { "Java", "Spring Boot", "REST APIs", "Hibernate/JPA" };
     private final String[] frontEnd  = { "React.js", "JavaScript", "HTML5", "CSS3", "Bootstrap" };
-    private final String[] databases = { "MySQL", "PostgreSQL" };
+    private final String[] databases = { "SQL"};
     private final String[] tools     = { "Git", "GitHub", "IntelliJ IDEA", "VS Code", "Eclipse" };
     private final String[] learning  = { "Microservices", "Docker", "Cloud Deployment" };
 
