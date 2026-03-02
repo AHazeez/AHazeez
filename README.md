@@ -3,6 +3,9 @@
 <!-- Animated Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Abdul%20Hazeez&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Java%20Full%20Stack%20Developer&descColor=64ffda&descSize=20&descAlignY=58&animation=fadeIn" width="100%"/>
 
+<!-- Profile Image -->
+<img src="https://github.com/AHazeez.png" width="150" height="150" style="border-radius: 50%;" alt="Abdul Hazeez"/>
+
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=64FFDA&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer+%F0%9F%9A%80;Spring+Boot+%7C+React.js+%7C+REST+APIs;Building+Scalable+Web+Applications;Actively+Seeking+Entry-Level+Opportunities+%F0%9F%8E%AF" alt="Typing SVG" />
@@ -11,7 +14,7 @@
 <br/>
 
 <!-- Profile Views + Followers Badges -->
-<img src="https://komarev.com/ghpvc/?username=abdulhazeez&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=AHazeez&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Status-Actively%20Hiring-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white"/>
 &nbsp;
@@ -38,7 +41,7 @@ public class AbdulHazeez extends Developer {
 
     private final String[] backEnd   = { "Java", "Spring Boot", "REST APIs", "Hibernate/JPA" };
     private final String[] frontEnd  = { "React.js", "JavaScript", "HTML5", "CSS3", "Bootstrap" };
-    private final String[] databases = { "SQL"};
+    private final String[] databases = { "SQL", "MySQL", "PostgreSQL" };
     private final String[] tools     = { "Git", "GitHub", "IntelliJ IDEA", "VS Code", "Eclipse" };
     private final String[] learning  = { "Microservices", "Docker", "Cloud Deployment" };
 
@@ -78,6 +81,7 @@ public class AbdulHazeez extends Developer {
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### 🗄️ Database
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
@@ -119,7 +123,7 @@ public class AbdulHazeez extends Developer {
 - 📦 RESTful APIs with Spring Boot
 - 📊 Admin Dashboard for Inventory Management
 
-[![View Code](https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdulhazeez)
+[![View Code](https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AHazeez/)
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](#)
 
 </td>
@@ -141,7 +145,7 @@ public class AbdulHazeez extends Developer {
 - 🔗 REST API Integration with React UI
 - 📈 Task Progress Analytics
 
-[![View Code](https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdulhazeez)
+[![View Code](https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AHazeez/)
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](#)
 
 </td>
@@ -154,17 +158,17 @@ public class AbdulHazeez extends Developer {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abdulhazeez&show_icons=true&theme=react&bg_color=0d1117&title_color=64ffda&icon_color=64ffda&text_color=c9d1d9&border_color=30363d&hide_border=false&count_private=true" height="180px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AHazeez&show_icons=true&theme=react&bg_color=0d1117&title_color=64ffda&icon_color=64ffda&text_color=c9d1d9&border_color=30363d&hide_border=false&count_private=true" height="180px"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulhazeez&layout=compact&theme=react&bg_color=0d1117&title_color=64ffda&text_color=c9d1d9&border_color=30363d&hide_border=false" height="180px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHazeez&layout=compact&theme=react&bg_color=0d1117&title_color=64ffda&text_color=c9d1d9&border_color=30363d&hide_border=false" height="180px"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulhazeez&theme=react&background=0d1117&ring=64ffda&fire=ff6b6b&currStreakLabel=64ffda&sideLabels=64ffda&border=30363d" height="180px"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AHazeez&theme=react&background=0d1117&ring=64ffda&fire=ff6b6b&currStreakLabel=64ffda&sideLabels=64ffda&border=30363d" height="180px"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulhazeez&bg_color=0d1117&color=64ffda&line=64ffda&point=ffffff&area=true&hide_border=false&border_color=30363d" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AHazeez&bg_color=0d1117&color=64ffda&line=64ffda&point=ffffff&area=true&hide_border=false&border_color=30363d" width="95%"/>
 
 </div>
 
@@ -174,7 +178,7 @@ public class AbdulHazeez extends Developer {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=abdulhazeez&theme=darkhub&no-frame=false&no-bg=false&margin-w=6&row=1" width="95%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=AHazeez&theme=darkhub&no-frame=false&no-bg=false&margin-w=6&row=1" width="95%"/>
 
 </div>
 
@@ -214,16 +218,16 @@ public class AbdulHazeez extends Developer {
 
 <div align="center">
 
-<a href="https://linkedin.com/in/abdulhazeez">
+<a href="https://www.linkedin.com/in/abdul-hazeez-9554a727a/">
   <img src="https://img.shields.io/badge/LinkedIn-Abdul%20Hazeez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://github.com/abdulhazeez">
-  <img src="https://img.shields.io/badge/GitHub-abdulhazeez-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/AHazeez/">
+  <img src="https://img.shields.io/badge/GitHub-AHazeez-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 &nbsp;
-<a href="mailto:abdulhazeez@email.com">
-  <img src="https://img.shields.io/badge/Email-abdulhazeez@email.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:abdulhazeezkepu@gmail.com">
+  <img src="https://img.shields.io/badge/Email-abdulhazeezkepu@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
